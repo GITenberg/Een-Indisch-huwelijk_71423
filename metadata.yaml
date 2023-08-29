@@ -1,5 +1,8 @@
 _repo: Een-Indisch-huwelijk_71423
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71423-h/images/frontcover.jpg
 creator:
   author:
     agent_name: Bruggen, Carry van
@@ -19,6 +22,8 @@ creator:
     - https://en.wikipedia.org/wiki/Carry_van_Bruggen
     - https://nl.wikipedia.org/wiki/Carry_van_Bruggen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71423#Een-Indisch-huwelijk
 gutenberg_issued: '2023-08-17'
 identifiers:
   gutenberg: '71423'
